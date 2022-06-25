@@ -1,3 +1,1 @@
-<a href="https://app.codiga.io/hub/user/github/JJ810">
-   <img src="https://api.codiga.io/public/badge/user/github/JJ810?style=light" alt="codiga badge" />
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JJ810)](https://github.com/anuraghazra/github-readme-stats)
